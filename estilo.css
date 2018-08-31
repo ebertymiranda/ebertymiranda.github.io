@@ -14,6 +14,7 @@ div#corpo {
     max-width: 450px;
     padding: 15px;
     margin: 0px auto;
+    color: #000000;
 }
 
 .container {
@@ -23,6 +24,7 @@ div#corpo {
 
 .form-login .form-login-healding , .form-login .checkbox {
     margin-bottom: 20px;
+    color: #000000;
 }
 
 .form-login .form-control {
@@ -42,7 +44,6 @@ div#corpo {
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0; 
 }
-
 
 .form-login input[type="password"]{
     margin-bottom: 10px;
